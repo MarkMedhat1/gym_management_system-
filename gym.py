@@ -149,7 +149,7 @@ def veiw_coach():
     tree.pack(expand = True, fill='both')
 
 root = tk.Tk()
-root.title("Bodz GYM")
+root.title("GYM")
 
 root.geometry("600x300")
 root.configure(bg='gray10')
